@@ -10,6 +10,6 @@ The corresponding video which also explains the background is,
 
 [Climate Change Calculated, Corona Update 2](https://youtu.be/YvuAugJPpp0)
 
-The corresponding website is.
+The corresponding website is,
 
 [https://www.tu-ilmenau.de/en/applied-media-systems-group/climate-change-calculated/](https://www.tu-ilmenau.de/en/applied-media-systems-group/climate-change-calculated/)
