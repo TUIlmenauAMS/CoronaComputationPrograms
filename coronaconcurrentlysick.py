@@ -3,8 +3,8 @@
 #Gerald Schuller, May 2020
 
 #Set coutries to retrieve, calculate, and plot:
-countries = ['Italy', 'Germany', 'Spain',  'Brazil', 'US', 'Russia','Korea, South', 'Austria','Lebanon', 'Sweden', 'United Kingdom']#,'Chile' ,'India']#, 'Ukraine']
-population=[60.36, 83.02, 46.94,  209.5, 328.2, 144.5, 51.64, 8.859, 6.849, 10.23, 66.6]#,18.73 , 1353]# 42]
+countries = ['Italy', 'Germany', 'Spain',  'Brazil', 'US', 'Russia','Korea, South', 'Austria','Lebanon', 'India', 'Chile']
+population=[60.36, 83.02, 46.94,  209.5, 328.2, 144.5, 51.64, 8.859, 6.849, 1353, 18.73]
 #countries = ['Germany', 'US']
 #population=[60.36, 328.2]
 
@@ -79,6 +79,7 @@ countryrecovered=np.array(countryrecovered)
 countrydeaths=datadeaths.loc[countries,startdate:].reset_index(drop=True)
 countrydeaths=np.array(countrydeaths)
 concurrentlysick=countrycases-countryrecovered-countrydeaths #factor of increase f for each country
+#concurrentlysick=countrycases
 
 fig, ax = plt.subplots(1,1) 
 ax.plot(dates,concurrentlysick.T)
@@ -141,6 +142,41 @@ plt.title('Death cases per Million Inhabitants internationally')
 #plt.show()
 #plt.figure()
 
+#True concurrently sick:
+
+casefatalityrate=countrydeaths/(countryrecovered+countrydeaths) #case fatality rate
+underdetectionrate=casefatalityrate/0.02 #underdetection rate = case fatality rate / infection fatality rate( 0.02)
+#pylab.rcParams['figure.figsize'] = (10, 6)
+fig, ax = plt.subplots(1,1) 
+ax.plot(dates,underdetectionrate.T)
+ax.set_xticks(np.arange(0,len(dates[1:]),10))
+plt.xticks(rotation=45)
+#plt.plot(currsickfactorsofincrease.T)
+plt.legend(countries)
+plt.xlabel('Day since '+startdate)
+plt.ylabel('Underdetection Rate')
+plt.grid()
+plt.title('Underdetection Rate')
+#plt.axis([len(dates)-120, len(dates),1.0, 10])
+#ax.set_ylim(bottom=0.5, top=1.3)
+#plt.show()
+
+trueconcurrentlysick=underdetectionrate*concurrentlysick
+fig, ax = plt.subplots(1,1) 
+ax.plot(dates,trueconcurrentlysick.T/population)
+ax.set_xticks(np.arange(0,len(dates),10))
+plt.xticks(rotation=45)
+#plt.plot(concurrentlysick.T/population)
+plt.legend(countries)
+plt.xlabel('Day since '+startdate)
+plt.ylabel('True Concurrently Sick')
+plt.grid()
+plt.title('True Concurrently sick per Million Inhabitants internationally')
+#plt.axis([1,31,0, 2])
+#plt.show()
+#plt.figure()
+
+#Factors of increase:
 currsickfactorsofincrease=concurrentlysick[:,1:]/concurrentlysick[:,:-1] #factor of increase f for each country
 """
 fig, ax = plt.subplots(1,1) 
