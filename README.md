@@ -8,9 +8,10 @@ Open the Jupyter notebook in Google Colab:
 
 This lets you run the program to update the plots and to change the countries. If you add a new country, also look up its population in millions, e.g. in Wikipedia, and enter it (also works on a smartphone).
 
-The corresponding video which also explains the background is,
+The corresponding videos which also explain the background are,
 
 [Climate Change Calculated, Corona Update 2](https://youtu.be/YvuAugJPpp0)
+[Climate Change Calculated, Corona Update 3](https://youtu.be/M4WWBWgPviE)
 
 The corresponding website is,
 
