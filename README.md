@@ -11,6 +11,7 @@ This lets you run the program to update the plots and to change the countries. I
 The corresponding videos which also explain the background are,
 
 [Climate Change Calculated, Corona Update 2](https://youtu.be/YvuAugJPpp0)
+
 [Climate Change Calculated, Corona Update 3](https://youtu.be/M4WWBWgPviE)
 
 The corresponding website is,
