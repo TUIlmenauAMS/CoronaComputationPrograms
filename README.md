@@ -14,6 +14,10 @@ The corresponding videos which also explain the background are,
 
 [Climate Change Calculated, Corona Update 3](https://youtu.be/M4WWBWgPviE)
 
+[Klimawandel Nachgerechnet, Corona Update 3 (in German)](https://youtu.be/uMbrgJW34Fw)
+
 The corresponding website is,
 
 [https://www.tu-ilmenau.de/en/applied-media-systems-group/climate-change-calculated/](https://www.tu-ilmenau.de/en/applied-media-systems-group/climate-change-calculated/)
+
+[https://www.tu-ilmenau.de/mt-ams/klimawandel-nachgerechnet/ (German)](https://www.tu-ilmenau.de/mt-ams/klimawandel-nachgerechnet/)
