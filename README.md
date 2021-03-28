@@ -10,15 +10,29 @@ Open the plots in Jupyter notebook in Google Colab:
 
 This lets you run the program to update the plots and to change the countries. If you add a new country, also look up its population in millions, e.g. in Wikipedia, and enter it (also works on a smartphone).
 
-The corresponding videos which also explain the background are,
+The corresponding videos which also explain the background are the following:
+
+The video containing the first model from March 2020:
+
+[Climate Change Calculated, Special on the Corona virus](https://youtu.be/iNlg2PJYsSY)
+
+[Klimawandel Nachgerechnet, Spezialausgabe zum Corona Virus (in German)](https://youtu.be/2UnOiSV-e2o)
+
+[Climate Change Calculated, Corona Update](https://youtu.be/VuHotesx1Y0)
+
+[Klimawandel Nachgerechnet, Corona Update (in German)](https://youtu.be/23LajKrdhxM)
 
 [Climate Change Calculated, Corona Update 2](https://youtu.be/YvuAugJPpp0)
+
+[Klimawandel Nachgerechnet, Corona Update 2 (in German)](https://youtu.be/3g8QmB8fqEI)
 
 [Climate Change Calculated, Corona Update 3](https://youtu.be/M4WWBWgPviE)
 
 [Klimawandel Nachgerechnet, Corona Update 3 (in German)](https://youtu.be/uMbrgJW34Fw)
 
 [Climate Change Calculated, Corona Update 4](https://youtu.be/yxS8E1LUEaM)
+
+[Klimawandel Nachgerechnet, Corona Update 4 (in German)](https://youtu.be/sgd5G1JozE4)
 
 The corresponding website is,
 
