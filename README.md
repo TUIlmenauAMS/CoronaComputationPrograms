@@ -38,4 +38,4 @@ The corresponding website is,
 
 [https://www.tu-ilmenau.de/en/applied-media-systems-group/climate-change-calculated/](https://www.tu-ilmenau.de/en/applied-media-systems-group/climate-change-calculated/)
 
-[https://www.tu-ilmenau.de/mt-ams/klimawandel-nachgerechnet/ (German)](https://www.tu-ilmenau.de/mt-ams/klimawandel-nachgerechnet/)
+[https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-angewandte-mediensysteme/forschungs-und-studienprojekte/klimawandel-nachgerechnet-1 (German)](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-angewandte-mediensysteme/forschungs-und-studienprojekte/klimawandel-nachgerechnet-1)
