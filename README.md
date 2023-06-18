@@ -34,6 +34,22 @@ The video containing the first model from March 2020:
 
 [Klimawandel Nachgerechnet, Corona Update 4 (in German)](https://youtu.be/sgd5G1JozE4)
 
+[Climate Change Calculated, Corona Update 5](https://youtu.be/_0J8DFz0dxk)
+
+[Klimawandel Nachgerechnet 5](https://youtu.be/zDM-o5Xu8wY)
+
+[Klimawandel Nachgerechnet, Corona Update 6](https://youtu.be/OCMAF32rTwA)
+
+[Climate Change Calculated, Corona Update 6](https://youtu.be/ztJ4syy2o-Q)
+
+[Climate Change Calculated 6](https://youtu.be/m2unxXQN_hg)
+
+[Klimawandel Nachgerechnet 6](https://youtu.be/m2unxXQN_hg)
+
+[Climate Change Calculated 7, Corona Conclusions](https://youtu.be/6OWUXzvk7gA)
+
+[Klimawandel Nachgerechnet 7, Corona-Schlussfolgerungen](https://youtu.be/UWix3z_EmB0)
+
 The corresponding website is,
 
 https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/applied-media-systems-group/research-and-study-projects/climate-change-calculated-2
